@@ -1,4 +1,3 @@
-from constants import constants as c
 from gameInit.gameInit import gameInit
 from gameLoops.gameMainLoop import gameMainLoop
 
